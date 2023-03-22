@@ -33,3 +33,7 @@ This application uses Node.js, Express.js, IndexedDB, PWA.
 ## License
 
 The JATE Text Editor is released under the ISC license.
+
+## Acknowledgements
+
+Thank you to the UofO Coding Bootcamp for providing the starter code for this project, as well as providing me the knowledge and tools needed in order to complete the application.
