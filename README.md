@@ -20,7 +20,8 @@ JATE can be run either through the browser, using the deployed link above, or to
 ## Usage
 
 Use the deployed URL in order to start the application
- //insert application screenshot here//
+
+![jate-screenshot](https://user-images.githubusercontent.com/115381607/226982867-2db462e9-a613-410c-9f2b-915cd7337b15.png)
 
 You can save any code snippet or notes in the editor, and the IndexedDB will automatically store the content when the window loses focus. Upon reopening the text editor, the content will be retrieved from the IndexedDB.
 
